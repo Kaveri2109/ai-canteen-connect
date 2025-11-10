@@ -243,19 +243,6 @@ ai-canteen-connect/
 - [ ] Advanced analytics dashboard
 - [ ] Mobile app (React Native)
 
-##  Academic Context
-
-This project was developed as part of **Project Work Phase II (21ECEP83)** at:
-
-**Global Academy of Technology, Bengaluru**  
-Department of Electronics & Communication Engineering  
-Under the guidance of: Mr. B C Divakara
-
-### Team Members
-- Kaveri Anil Ghatage (1GA21EC061)
-- Keerthi Pradha M (1GA21EC063)
-- Rakshitha G (1GA21EC182)
-
 ##  Contributing
 
 Contributions, issues, and feature requests are welcome!
