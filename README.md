@@ -11,7 +11,7 @@
 
 Engineered a full-stack AI food ordering platform with ML-based recommendations serving **500+ daily users**. Reduced wait times by **40%** through predictive demand forecasting and real-time order tracking with WebSockets.
 
-## 📸 Screenshots
+##  Screenshots
 
 ### User Interface
 
@@ -39,7 +39,7 @@ Comprehensive order management system for canteen staff with status updates.
 
 ![Admin Panel](screenshots/admin-panel.png)
 
-## ✨ Key Features
+##  Key Features
 
 ### For Customers
 - **AI-Powered Recommendations**: Personalized food suggestions based on order history and preferences
